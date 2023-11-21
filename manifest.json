@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Hello Extensions",
-    "description": "Base Level Extension",
+    "name": "Nekopost FIXED",
+    "description": "Remove unnecessary styling choice of Nekopost dev which is shit",
     "version": "1.0",
     "content_scripts": [
         {
